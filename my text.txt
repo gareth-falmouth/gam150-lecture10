@@ -6,6 +6,10 @@ class whatever
 
 	public void Update()
 	{
-		//do stuff ...
+		Console.Display("do stuff");
+		Console.Display("do stuff");
+		Console.Display("do stuff");
+		Console.Display("do stuff");
+		Console.Display("do stuff");
 	}
 }
