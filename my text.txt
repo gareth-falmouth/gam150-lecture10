@@ -1,1 +1,11 @@
-this is my file
+class whatever
+{
+	public whatever()
+	{
+	}
+
+	public void Update()
+	{
+		//do stuff ...
+	}
+}
